@@ -10,8 +10,8 @@ var options = {
         reconnect: true
     },
     identity: {
-        username: "USERNAME",
-        password: "oauth:OAUTHKEY"
+        username: "SplitFRT",
+        password: "oauth:zz5zm009mj7gw5rl00rvpxcv2i9ck7"
     },
     channels: ["nalcs2",
     "tsm_dyrus",
